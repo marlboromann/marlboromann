@@ -1,16 +1,20 @@
-### Hi there 👋
+## Welcome to My GitHub Profile!
 
-<!--
-**marlboromann/marlboromann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm a passionate Computer Science student currently in my 5th semester, based in beautiful Bavaria. Alongside my studies, I'm also gaining practical experience working as an IT Engineer at a major energy company. My journey in tech is driven by a deep curiosity and a strong commitment to both academic and professional excellence.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Studying:** Computer Science in Bavaria at FAU
+- 🕒 **Semester:** 5th
+- 💼 **Working:** IT Engineer at a renowned energy company
+- 🌍 **Location:** Bavaria, Germany
+- 🌱 **Learning:** Always keen on exploring new technologies and innovative solutions in the field of IT and energy
+- 🤝 **Collaborating:** Open to working on projects that make a difference, especially those at the intersection of technology and sustainability
+
+## What I'm Currently Working On
+
+- Exploring sustainable and efficient energy solutions through technology
+- Developing my skills in Java, Python, C, Scala & Kotlin
+- Collaborating on open-source projects that are geared towards social impact
+
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me for any exciting opportunities or collaborations.
